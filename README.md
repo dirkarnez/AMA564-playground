@@ -18,3 +18,6 @@ python-portable
 
 ### References
 - [4. Using Python on Windows — Python 3.10.8 documentation](https://docs.python.org/3/using/windows.html#installing-without-ui)
+
+
+<!-- Security scan triggered at 2026-09-15 09:29:08 -->
